@@ -1,7 +1,5 @@
 from modules import tweepyApi
 
-import csv
-
 """
 自動ツイートを行う
 """
