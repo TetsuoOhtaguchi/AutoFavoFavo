@@ -8,7 +8,7 @@ from modules import tweepyApi
 api = tweepyApi.getTweepyApi()
 
 # 特定の@ユーザーネーム
-screenName = "tukibito_s"
+screenName = "freedomissla"
 
 # フォロー人数カウンター
 counter = 0

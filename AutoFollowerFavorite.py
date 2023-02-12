@@ -28,8 +28,7 @@ for i in range(0, 100, 1):
     counter += 1
 
     # @から後のユーザーネームを入れる
-    # @topitmedia @freedomissla @ito_marketer
-    screenName = "ito_marketer"
+    screenName = "freedomissla"
 
     followers_id_list = api.get_follower_ids(screen_name=screenName)
     random.shuffle(followers_id_list)

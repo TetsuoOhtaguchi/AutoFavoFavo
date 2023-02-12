@@ -1,4 +1,8 @@
 from modules import tweepyApi
+# from modules import GetTargetUserPopularTweets
+
+# test = GetTargetUserPopularTweets.getTargetUserPopularTweetsArr(screenName='freedomissla')
+# print(test)
 
 """
 自動ツイートを行う
